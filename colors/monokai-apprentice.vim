@@ -1,5 +1,6 @@
 let g:colors_name='monokai-apprentice'
 
+syntax reset
 highlight Normal          guifg='#EFEFEF' guibg='#212223' gui=none ctermfg=15   ctermbg=none  cterm=none
 highlight LineNr          guifg='#A0A0A0' guibg=none      gui=none ctermfg=7    ctermbg=none  cterm=none
 highlight CursorLineNr    guifg='#98CEDE' guibg='#4A4B4C' gui=none ctermfg=6    ctermbg=8     cterm=none
@@ -17,5 +18,5 @@ highlight PreProc         guifg='#C792EA' guibg=none      gui=none ctermfg=5    
 highlight String          guifg='#FFCE57' guibg=none      gui=none ctermfg=3    ctermbg=none  cterm=none
 highlight Number          guifg='#63C485' guibg=none      gui=none ctermfg=2    ctermbg=none  cterm=none
 highlight Function        guifg='#5AB8D9' guibg=none      gui=none ctermfg=4    ctermbg=none  cterm=none
-highlight Visual          guifg=none      guibg='#FFCE57' gui=none ctermfg=none ctermbg=3     cterm=none
+highlight Visual          guifg='#212223' guibg='#FFCE57' gui=none ctermfg=16   ctermbg=3     cterm=none
 highlight SignColumn      guifg=none      guibg='#242526' gui=none ctermfg=none ctermbg=0     cterm=none
