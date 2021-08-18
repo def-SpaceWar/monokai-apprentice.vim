@@ -17,7 +17,7 @@ highlight Identifier      guifg='#EFEFEF' guibg=none      gui=none ctermfg=15   
 highlight PreProc         guifg='#EB3D54' guibg=none      gui=none ctermfg=1    ctermbg=none  cterm=none
 highlight String          guifg='#FFCE57' guibg=none      gui=none ctermfg=3    ctermbg=none  cterm=none
 highlight Number          guifg='#63C485' guibg=none      gui=none ctermfg=2    ctermbg=none  cterm=none
-highlight Function        guifg='#5AB8D9' guibg=none      gui=none ctermfg=4    ctermbg=none  cterm=none
+highlight Function        guifg='#5A98D9' guibg=none      gui=none ctermfg=4    ctermbg=none  cterm=none
 highlight Type            guifg='#C792EA' guibg=none      gui=none ctermfg=5    ctermbg=none  cterm=none
 highlight Visual          guifg='#212223' guibg='#FFCE57' gui=none ctermfg=16   ctermbg=3     cterm=none
 highlight SignColumn      guifg=none      guibg='#242526' gui=none ctermfg=none ctermbg=0     cterm=none
