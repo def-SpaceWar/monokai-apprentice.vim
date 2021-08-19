@@ -13,7 +13,7 @@ highlight Comment         guifg='#4A4B4C' guibg=none      gui=none ctermfg=8    
 highlight Constant        guifg='#C792EA' guibg=none      gui=none ctermfg=5    ctermbg=none  cterm=none
 highlight Special         guifg='#12CEDE' guibg=none      gui=none ctermfg=6    ctermbg=none  cterm=none
 highlight Delimiter       guifg='#A0A0A0' guibg=none      gui=none ctermfg=7    ctermbg=none  cterm=none
-highlight Identifier      guifg='#EFEFEF' guibg=none      gui=none ctermfg=15   ctermbg=none  cterm=none
+highlight Identifier      guifg='#63C485' guibg=none      gui=none ctermfg=2    ctermbg=none  cterm=none
 highlight PreProc         guifg='#EB3D54' guibg=none      gui=none ctermfg=1    ctermbg=none  cterm=none
 highlight String          guifg='#FFCE57' guibg=none      gui=none ctermfg=3    ctermbg=none  cterm=none
 highlight Number          guifg='#63C485' guibg=none      gui=none ctermfg=2    ctermbg=none  cterm=none
