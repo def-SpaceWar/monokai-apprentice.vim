@@ -32,3 +32,4 @@ highlight Pmenu                         guifg='#EFEFEF' guibg='#242526' gui=none
 highlight LspCxxHlGroupEnumConstant     guifg='#73D465' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight LspCxxHlGroupNamespace        guifg='#FFCE57' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
 highlight LspCxxHlGroupMemberVariable   guifg='#FFCE57' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
+highlight luaTSConstructor              guifg='#12CEDE' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
