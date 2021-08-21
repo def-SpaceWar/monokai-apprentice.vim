@@ -12,6 +12,7 @@ highlight Directory                     guifg='#B792FA' guibg=none      gui=none
 highlight StatusLine                    guifg='#A0A0A0' guibg='#4A4B4C' gui=none   ctermfg=7    ctermbg=8     cterm=none
 highlight StatusLineNC                  guifg='#A0A0A0' guibg='#4A4B4C' gui=none   ctermfg=7    ctermbg=8     cterm=none
 highlight Comment                       guifg='#4A4B4C' guibg=none      gui=italic ctermfg=8    ctermbg=none  cterm=italic
+highlight NonText                       guifg='#4A4B4C' guibg=none      gui=italic ctermfg=8    ctermbg=none  cterm=italic
 highlight Constant                      guifg='#73D465' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Special                       guifg='#FFCE57' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
 highlight SpecialChar                   guifg='#B792FA' guibg=none      gui=none   ctermfg=5    ctermbg=none  cterm=none
