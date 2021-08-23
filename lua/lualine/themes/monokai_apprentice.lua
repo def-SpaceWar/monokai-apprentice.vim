@@ -6,8 +6,8 @@ local colors = {
   blue         = '#5aa8f9',
   yellow       = '#FFce57',
   gray         = '#4a4b4c',
-  darkgray     = '#5b5c5d',
-  lightgray    = '#a0a0a0',
+  darkgray     = '#A0A0A0',
+  lightgray    = '#B792FA',
   inactivegray = '#efefef',
 }
 -- LuaFormatter on
