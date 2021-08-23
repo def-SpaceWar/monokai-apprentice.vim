@@ -1,45 +1,45 @@
 local colors = {
-  black        = '#212223',
-  white        = '#efefef',
-  red          = '#FB3D74',
-  green        = '#73d465',
-  blue         = '#5aa8f9',
-  yellow       = '#FFce57',
-  gray         = '#4a4b4c',
-  darkgray     = '#A0A0A0',
-  lightgray    = '#B792FA',
-  inactivegray = '#efefef',
+  black        = ['#212223'],
+  white        = ['#efefef'],
+  red          = ['#FB3D74'],
+  green        = ['#73d465'],
+  blue         = ['#5aa8f9'],
+  yellow       = ['#FFce57'],
+  gray         = ['#4a4b4c'],
+  darkgray     = ['#A0A0A0'],
+  lightgray    = ['#B792FA'],
+  inactivegray = ['#efefef'],
 }
 -- LuaFormatter on
 return {
   normal = {
-    a = {bg = colors.gray, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.darkgray, fg = colors.gray}
+    a = {bg = colors.gray[0], fg = colors.black[0], gui = 'bold'},
+    b = {bg = colors.lightgray[0], fg = colors.white[0]},
+    c = {bg = colors.darkgray[0], fg = colors.gray[0]}
   },
   insert = {
-    a = {bg = colors.blue, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.lightgray, fg = colors.white}
+    a = {bg = colors.blue[0], fg = colors.black[0], gui = 'bold'},
+    b = {bg = colors.lightgray[0], fg = colors.white[0]},
+    c = {bg = colors.lightgray[0], fg = colors.white[0]}
   },
   visual = {
-    a = {bg = colors.yellow, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.inactivegray, fg = colors.black}
+    a = {bg = colors.yellow[0], fg = colors.black[0], gui = 'bold'},
+    b = {bg = colors.lightgray[0], fg = colors.white[0]},
+    c = {bg = colors.inactivegray[0], fg = colors.black[0]}
   },
   replace = {
-    a = {bg = colors.red, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.black, fg = colors.white}
+    a = {bg = colors.red[0], fg = colors.black[0], gui = 'bold'},
+    b = {bg = colors.lightgray[0], fg = colors.white[0]},
+    c = {bg = colors.black[0], fg = colors.white[0]}
   },
   command = {
-    a = {bg = colors.green, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.inactivegray, fg = colors.black}
+    a = {bg = colors.green[0], fg = colors.black[0], gui = 'bold'},
+    b = {bg = colors.lightgray[0], fg = colors.white[0]},
+    c = {bg = colors.inactivegray[0], fg = colors.black[0]}
   },
   inactive = {
-    a = {bg = colors.darkgray, fg = colors.gray, gui = 'bold'},
-    b = {bg = colors.darkgray, fg = colors.gray},
-    c = {bg = colors.darkgray, fg = colors.gray}
+    a = {bg = colors.darkgray[0], fg = colors.gray[0], gui = 'bold'},
+    b = {bg = colors.darkgray[0], fg = colors.gray[0]},
+    c = {bg = colors.darkgray[0], fg = colors.gray[0]}
   }
 }
