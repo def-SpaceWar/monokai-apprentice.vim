@@ -25,7 +25,7 @@ highlight Number                        guifg='#73D465' guibg=none      gui=none
 highlight Function                      guifg='#5AA8F9' guibg=none      gui=none   ctermfg=4    ctermbg=none  cterm=none
 highlight Type                          guifg='#12CEDE' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
 highlight TSTypeBuiltin                 guifg='#FB3D74' guibg=none      gui=none   ctermfg=1    ctermbg=none  cterm=none
-highlight Visual                        guifg='#212223' guibg='#B792FA' gui=none   ctermfg=16   ctermbg=5     cterm=none
+highlight Visual                        guifg='#212223' guibg='#B792FA' gui=none   ctermfg=none ctermbg=5     cterm=none
 highlight SignColumn                    guifg=none      guibg='#4A4B4C' gui=none   ctermfg=none ctermbg=0     cterm=none
 highlight Title                         guifg='#A0A0A0' guibg=none      gui=bold   ctermfg=7    ctermbg=none  cterm=bold
 highlight Pmenu                         guifg='#EFEFEF' guibg='#242526' gui=none   ctermfg=15   ctermbg=0     cterm=none
