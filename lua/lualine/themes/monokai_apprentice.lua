@@ -5,37 +5,37 @@ local colors = {
   green        = '#73d465',
   blue         = '#5aa8f9',
   yellow       = '#FFce57',
-  gray         = '#4a4b4c',
-  darkgray     = '#A0A0A0',
-  lightgray    = '#B792FA',
+  gray         = '#A0A0A0',
+  darkgray     = '#4A4B4C',
+  magenta      = '#B792FA',
   inactivegray = '#efefef',
 }
 -- LuaFormatter on
 return {
   normal = {
-    a = {bg = colors.gray, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.darkgray, fg = colors.gray}
+    a = {bg = colors.red, fg = colors.black, gui = 'bold'},
+    b = {bg = colors.darkgray, fg = colors.white},
+    c = {bg = colors.darkgray, fg = colors.white}
   },
   insert = {
     a = {bg = colors.blue, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.lightgray, fg = colors.white}
+    b = {bg = colors.darkgray, fg = colors.white},
+    c = {bg = colors.darkgray, fg = colors.white}
   },
   visual = {
     a = {bg = colors.yellow, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.inactivegray, fg = colors.black}
+    b = {bg = colors.white, fg = colors.black},
+    c = {bg = colors.white, fg = colors.black}
   },
   replace = {
-    a = {bg = colors.red, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.black, fg = colors.white}
+    a = {bg = colors.green, fg = colors.black, gui = 'bold'},
+    b = {bg = colors.darkgray, fg = colors.white},
+    c = {bg = colors.white, fg = colors.black}
   },
   command = {
-    a = {bg = colors.green, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.lightgray, fg = colors.white},
-    c = {bg = colors.inactivegray, fg = colors.black}
+    a = {bg = colors.white, fg = colors.black, gui = 'bold'},
+    b = {bg = colors.darkgray, fg = colors.white},
+    c = {bg = colors.white, fg = colors.black}
   },
   inactive = {
     a = {bg = colors.darkgray, fg = colors.gray, gui = 'bold'},
