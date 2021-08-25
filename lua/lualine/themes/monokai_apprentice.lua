@@ -14,12 +14,12 @@ local colors = {
 return {
   normal = {
     a = {bg = colors.red, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.magenta, fg = colors.white},
+    b = {bg = colors.magenta, fg = colors.black},
     c = {bg = colors.darkgray, fg = colors.white}
   },
   insert = {
     a = {bg = colors.blue, fg = colors.black, gui = 'bold'},
-    b = {bg = colors.magenta, fg = colors.white},
+    b = {bg = colors.magenta, fg = colors.black},
     c = {bg = colors.darkgray, fg = colors.white}
   },
   visual = {
