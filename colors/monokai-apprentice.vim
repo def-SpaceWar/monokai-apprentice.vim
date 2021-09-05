@@ -6,7 +6,7 @@ syntax reset
 highlight Normal                        guifg='#EFEFEF' guibg='#212223' gui=none   ctermfg=15   ctermbg=none  cterm=none
 highlight LineNr                        guifg='#A0A0A0' guibg=none      gui=none   ctermfg=7    ctermbg=none  cterm=none
 highlight CursorLineNr                  guifg='#B792FA' guibg='#4A4B4C' gui=bold   ctermfg=5    ctermbg=8     cterm=bold
-highlight VertSplit                     guifg='#242526' guibg='#4A4B4C' gui=none   ctermfg=0    ctermbg=8     cterm=none
+highlight VertSplit                     guifg='#242526' guibg='#4A4B4C' gui=none   ctermfg=0    ctermbg=15    cterm=none
 highlight Statement                     guifg='#FB3D74' guibg=none      gui=none   ctermfg=1    ctermbg=none  cterm=none
 highlight Directory                     guifg='#B792FA' guibg=none      gui=none   ctermfg=5    ctermbg=none  cterm=none
 highlight StatusLine                    guifg='#A0A0A0' guibg='#4A4B4C' gui=none   ctermfg=7    ctermbg=8     cterm=none
