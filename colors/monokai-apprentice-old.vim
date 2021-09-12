@@ -21,7 +21,7 @@ highlight Special                       guifg='#EBCC61' guibg=none      gui=none
 highlight SpecialChar                   guifg='#F97933' guibg=none      gui=none   ctermfg=5    ctermbg=none  cterm=none
 highlight Delimiter                     guifg='#A0A3AF' guibg=none      gui=none   ctermfg=7    ctermbg=none  cterm=none
 highlight Identifier                    guifg='#EBCC61' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
-highlight PreProc                       guifg='#6FBB6A' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
+highlight PreProc                       guifg='#767676' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
 highlight TSNamespace                   guifg='#EBCC61' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
 highlight String                        guifg='#6FBB6A' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Number                        guifg='#6FBB6A' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
