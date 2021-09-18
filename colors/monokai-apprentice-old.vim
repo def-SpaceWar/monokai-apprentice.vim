@@ -23,6 +23,7 @@ highlight Delimiter                     guifg='#A0A3AF' guibg=none      gui=none
 highlight Identifier                    guifg='#EBCC61' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
 highlight PreProc                       guifg='#767676' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
 highlight TSNamespace                   guifg='#EBCC61' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
+highlight TSParameter                   guifg='#F97933' guibg=none      gui=none   ctermfg=5    ctermbg=none  cterm=none
 highlight String                        guifg='#6FBB6A' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Number                        guifg='#6FBB6A' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Function                      guifg='#30B6D7' guibg=none      gui=none   ctermfg=4    ctermbg=none  cterm=none
