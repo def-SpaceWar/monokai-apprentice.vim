@@ -25,7 +25,7 @@ highlight PreProc                       guifg='#12CEDE' guibg=none      gui=none
 highlight TSNamespace                   guifg='#FFCE57' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
 highlight String                        guifg='#73D465' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Number                        guifg='#73D465' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
-highlight Function                      guifg='#5AA8F9' guibg=none      gui=none   ctermfg=4    ctermbg=none  cterm=none
+highlight Function                      guifg='#5AA8F9' guibg=none      gui=bold   ctermfg=4    ctermbg=none  cterm=bold
 highlight Type                          guifg='#12CEDE' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
 highlight TSTypeBuiltin                 guifg='#FB3D74' guibg=none      gui=none   ctermfg=1    ctermbg=none  cterm=none
 highlight TSParameter                   guifg='#B792FA' guibg=none      gui=none   ctermfg=5    ctermbg=none  cterm=none

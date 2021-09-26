@@ -26,7 +26,7 @@ highlight TSNamespace                   guifg='#EBCC61' guibg=none      gui=none
 highlight TSParameter                   guifg='#F97933' guibg=none      gui=none   ctermfg=5    ctermbg=none  cterm=none
 highlight String                        guifg='#6FBB6A' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Number                        guifg='#6FBB6A' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
-highlight Function                      guifg='#30B6D7' guibg=none      gui=none   ctermfg=4    ctermbg=none  cterm=none
+highlight Function                      guifg='#30B6D7' guibg=none      gui=bold   ctermfg=4    ctermbg=none  cterm=bold
 highlight Type                          guifg='#767676' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
 highlight TSTypeBuiltin                 guifg='#F63954' guibg=none      gui=none   ctermfg=1    ctermbg=none  cterm=none
 highlight Visual                        guifg='#151619' guibg='#F97933' gui=none   ctermfg=0    ctermbg=5     cterm=none
