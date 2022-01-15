@@ -37,4 +37,4 @@ highlight LspCxxHlGroupEnumConstant     guifg='#73D465' guibg=none      gui=none
 highlight LspCxxHlGroupNamespace        guifg='#FFCE57' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
 highlight LspCxxHlGroupMemberVariable   guifg='#FFCE57' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
 highlight luaTSConstructor              guifg='#12CEDE' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
-highlight Todo                          guifg='#212223' guibg="#FFCE57" gui=bold   ctermfg=0    ctermbg=3     cterm=bold
+highlight Todo                          guifg='#212223' guibg='#FFCE57' gui=bold   ctermfg=0    ctermbg=3     cterm=bold
