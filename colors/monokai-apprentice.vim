@@ -39,3 +39,6 @@ highlight LspCxxHlGroupMemberVariable   guifg='#FFCE57' guibg=none      gui=none
 highlight luaTSConstructor              guifg='#12CEDE' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
 highlight Todo                          guifg='#212223' guibg='#FFCE57' gui=bold   ctermfg=0    ctermbg=3     cterm=bold
 highlight SignColumn                    guifg='#EFEFEF' guibg=none      gui=bold   ctermfg=15   ctermbg=none  cterm=bold
+highlight GitGutterAdd                  guifg='#21D992' guibg='#21D992' gui=bold   ctermfg=10   ctermbg=10    cterm=bold
+highlight GitGutterDelete               guifg='#FB59A0' guibg='#FB59A0' gui=bold   ctermfg=9    ctermbg=9     cterm=bold
+highlight GitGutterChange               guifg='#FFFE57' guibg='#FFFE57' gui=bold   ctermfg=11   ctermbg=11    cterm=bold
