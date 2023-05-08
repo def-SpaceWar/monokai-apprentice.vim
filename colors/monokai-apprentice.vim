@@ -23,10 +23,10 @@ highlight Special                       guifg='#FFBF47' guibg=none      gui=none
 highlight SpecialChar                   guifg='#B792FA' guibg=none      gui=none   ctermfg=5    ctermbg=none  cterm=none
 highlight Delimiter                     guifg='#A0A0A0' guibg=none      gui=none   ctermfg=7    ctermbg=none  cterm=none
 highlight Identifier                    guifg='#EFEFEF' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
-highlight @lsp.type.property            guifg='#FFBF47' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
-highlight @lsp.type.parameter           guifg='#FF7F47' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
-highlight PreProc                       guifg='#FF7F47' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
-highlight String                        guifg='#73EF65' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
+highlight @lsp.type.property            guifg='#73EF65' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
+highlight @lsp.type.parameter           guifg='#FF8F47' guibg=none      gui=none   ctermfg=3    ctermbg=none  cterm=none
+highlight PreProc                       guifg='#FF8F47' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
+highlight String                        guifg='#FFBF47' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Number                        guifg='#73EF65' guibg=none      gui=none   ctermfg=2    ctermbg=none  cterm=none
 highlight Function                      guifg='#5AAFF9' guibg=none      gui=none   ctermfg=4    ctermbg=none  cterm=none
 highlight Type                          guifg='#12CEDE' guibg=none      gui=none   ctermfg=6    ctermbg=none  cterm=none
