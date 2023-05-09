@@ -7,7 +7,7 @@ local colors = {
   cyan         = '#12CEDE',
   yellow       = '#FFBF47',
   gray         = '#A0A0A0',
-  darkgray     = '#4A4B4C',
+  darkgray     = '#404D49',
   magenta      = '#B792FA',
   inactivegray = '#efefef',
 }
